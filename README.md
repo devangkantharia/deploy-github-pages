@@ -1,27 +1,86 @@
-# Deploy Next.js to GitHub Pages
+# My Work & Projects Portfolio
 
-This is a Next.js template which can be deployed to GitHub Pages as a static site.
+Welcome to my portfolio! This collection showcases my skills and experience through real-world examples of my work. Each project, briefly described below, reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.
 
-## Deploying to GitHub Pages
+---
 
-1.  Create a new public GitHub repository
-2.  Push the starter code to the `main` branch
-3.  On GitHub, go to **Settings** > **Pages** > **Source**, and choose **GitHub Actions** as the source
-4.  Make a commit and push it to see the changes on GitHub Pages
+## 🚀 Projects
 
-Congratulations! You should have a URL like:
+Here are the categories of projects you can explore. Click on the links to see the live presentations.
 
-```bash
-https://<github-user-name>.github.io/<github-project-name>/
-```
+### Phygital Projects
 
-For more information, see our [deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying/static-exports).
+*Physical + Digital Projects with a holistic point of view, creating a hybrid space with real and virtual dimensions.*
 
-## Learn More
+<span style="color:cyan;">#Physical/Digital,</span> <span style="color:yellowgreen;">#New Media,</span> <span style="color:gold;">#Tactile</span>
 
-To learn more about Next.js, take a look at the following resources:
+|                                                       Project Image                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/phygital"><img src="/images/phygital.jpg" alt="Phygital Project" width="200"/></a> |
+ 
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### TouchScreen Solutions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+*Ranging from mobile phones to larger displays, these projects show how touch input enhances digital experiences.*
+
+<span style="color:darkorange;">#Digital,</span> <span style="color:fuchsia;">#Experience Center,</span> <span style="color:gold;">#Tactile/Non-Tactile</span>
+
+|                                                        Project Image                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/touch"><img src="/images/touchscreen.jpg" alt="TouchScreen Project" width="200"/></a> |
+ 
+---
+
+### AR/VR/MR Projects
+
+*Reality as a construct, perceived from our senses and extending them, creating intuitive immersive experiences.*
+
+<span style="color:orangered;">#AR/VR/MR,</span> <span style="color:cyan;">#Immersive,</span> <span style="color:gold;">#Tactile/Non-Tactile</span>
+
+|                                                     Project Image                                                     |
+| :-------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/arvrmr"><img src="/images/arvrmr.jpg" alt="AR/VR/MR Project" width="200"/></a> |
+ 
+---
+
+### ML/AI and IoT
+
+*Projects enabling a machine to learn by analyzing large datasets, gaining insights, and making informed decisions.*
+
+<span style="color:#9cf;">#Internet of Things,</span> <span style="color:yellow;">#Prototype</span>
+
+|                                                     Project Image                                                     |
+| :-------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/iot"><img src="/images/iot2.jpg" alt="ML/AI and IoT Project" width="200"/></a> |
+ 
+---
+
+### Freelance Projects
+
+*A comprehensive collection of short-term contract projects for clients in different domains, creating varied skilled solutions.*
+
+<span style="color:yellowgreen;">#New Media,</span> <span style="color:yellow;">#Prototype</span>
+
+|                                                        Project Image                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/freelance"><img src="/images/freelance.jpg" alt="Freelance Project" width="200"/></a> |
+ 
+---
+
+### Explorations
+
+*From observations to ideas to concepts by researching innovative, unfamiliar, and unique topics.*
+
+<span style="color:yellowgreen;">#New Media,</span> <span style="color:yellow;">#Prototype</span>
+
+|                                                            Project Image                                                             |
+| :----------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://your-github-pages-url/explorations"><img src="/images/exploration.jpg" alt="Explorations Project" width="200"/></a> |
+ 
+## 🤝 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to connect with me!
+
+*   **LinkedIn:** https://www.linkedin.com/in/devangkantharia/
+*   **Email:** [devangkantharia@gmail.com](mailto:devangkantharia%40gmail.com?subject=Hello%20World)
